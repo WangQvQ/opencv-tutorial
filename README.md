@@ -2,7 +2,9 @@
 
 # OpenCV 方法演示项目
 
-
+<center>
+<img width="1025" alt="Snipaste_2023-10-03_16-43-46(1)" src="https://github.com/WangQvQ/opencv-tutorial/assets/58406737/d23fd5e9-8219-4660-afb3-36e231bc2633">
+</center>
 
 ## 项目简介
 
@@ -58,6 +60,7 @@
 
 ## 示例代码
 
+<center><img width="498" alt="Snipaste_2023-10-03_16-43-35" src="https://github.com/WangQvQ/opencv-tutorial/assets/58406737/b110342c-baeb-4018-85d6-80deaf3fc029"></center>
 
 
 
